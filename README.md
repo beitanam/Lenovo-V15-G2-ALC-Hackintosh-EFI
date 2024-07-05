@@ -39,7 +39,7 @@ Here is what i worked with:
 * Integrated Camera
 * Line-In ports
 * USB-C ports
-* Battery percentage and charging status
+* Battery percentage and charging status (aka Battery Readouts)
 * Display brightness
 * Function Keys!
 * Elan Touchpad and the Fujitsu Keyboard
