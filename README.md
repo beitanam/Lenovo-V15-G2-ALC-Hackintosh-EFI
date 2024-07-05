@@ -49,7 +49,7 @@ Here is what i worked with:
 * WiFi
 
 # Bios Configuration:
-Secure Boot on Disabled.
+Secure Boot is off.
 
 Virtualization is on, it didn't cause me any issues.
 
