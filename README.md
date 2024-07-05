@@ -50,11 +50,16 @@ Here is what i worked with:
 
 # Bios Configuration:
 Secure Boot on Disabled.
+
 Virtualization is on, it didn't cause me any issues.
 
 # Notes:
 I couldn't find any other options on the BIOS as mentioned on the dortania guide except for Secure Boot.
+
 As for USB, please try mapping them out yourself on Windows, because im not a expert, and they may not work for you (although they work perfectly for me).
+
 Same goes for ACPI patches, i really recommend you try generating them yourself.
+
 This EFI folder was made based on a completely unmodified* laptop, hence the missing WiFi due to this machine originally not having a compatible WiFi card - you can buy one online on eBay or AliExpress, but at that point you might as well just buy a new computer that's compatible with hackintosh or a affordable macbook that can run latest OS X.
+
 * (The laptop's storage and ram have been modified, but i did not deal or touch any Kexts or options relating to Memory or Storage - mine however did not come with a SATA drive, so i can't help you if you have problems there.)
