@@ -63,3 +63,15 @@ Same goes for ACPI patches, i really recommend you try generating them yourself.
 This EFI folder was made based on a completely unmodified* laptop, hence the missing WiFi due to this machine originally not having a compatible WiFi card - you can buy one online on eBay or AliExpress, but at that point you might as well just buy a new computer that's compatible with hackintosh or a affordable macbook that can run latest OS X.
 
 * (The laptop's storage and ram have been modified, but i did not deal or touch any Kexts or options relating to Memory or Storage - mine however did not come with a SATA drive, so i can't help you if you have problems there.)
+
+# Hey, i have an issue or it's just not working out for me...
+I HIGHLY recommend you visit the friendly folks of [AMD OS X](https://amd-osx.com/) on their Discord and ask for help there.
+
+Dont get me wrong, i don't hate helping people, it's just im not active at all on github and don't check often in here.
+
+So really, its up to you if you want to leave your issue on Issues.
+
+# Im sorry? I thought you made this because you wanted to help out others who had a similar machine and wanted OS X?
+Yes -- i just don't check here very often and im quite forgetfull, chances are i won't reply in time to your issue.
+
+You are going to have a much more higher chance at getting help over at there rather than here.
