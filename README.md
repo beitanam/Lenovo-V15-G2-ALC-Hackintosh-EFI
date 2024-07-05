@@ -24,7 +24,7 @@ Here is what i worked with:
 * **Ethernet:** Realtek RTL8111H-CG
 * **TouchPad:** HID Elan (MSFT0001) TouchPad
 * **Memory:** Micron Technology 8 GB 3200MHz DDR4
-* **Others:** Fujitsu PS/2 Integrated Keyboard, Line-In, USB-C and HDMI ports...
+* **Others:** Fujitsu PS/2 Integrated Keyboard, Line-Out, USB-C and HDMI ports...
 
 # Untested
 * HDMI
@@ -37,8 +37,8 @@ Here is what i worked with:
 * Sleep and WakeUp
 * Microphone
 * Integrated Camera
-* Line-In ports
-* USB-C ports
+* Line-Out port
+* USB-C port
 * Battery percentage and charging status (aka Battery Readouts)
 * Display brightness
 * Function Keys!
