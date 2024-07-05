@@ -11,7 +11,7 @@ HoRNDIS has also been included due to the lack of compatible WiFi hardware.
 
 ***NootedRed is NOT compatible with the recovery or setup system!***
 
-Please, generate a ***NEW*** SMBios before using this, the one in here is a INVALID one.
+Please, generate a ***NEW*** SMBios before using this, the one in here is a INVALID one. (It's recommended you use MacBookPro16,3 as the SMBios for iGPU accel.)
 # Hardware Specifications
 Lenovo's site includes a [PDF](https://psref.lenovo.com/syspool/Sys/PDF/Lenovo/Lenovo_V15_G2_ALC/Lenovo_V15_G2_ALC_Spec.pdf) listing the hardware of this model as well as its variations, it might help you out on finding out what your own laptop requires.
 
