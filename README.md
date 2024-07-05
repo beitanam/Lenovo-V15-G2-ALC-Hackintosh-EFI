@@ -33,7 +33,7 @@ Here is what i worked with:
 * iGPU Acceleration
 * ALC3287 Audio
 * All USB ports
-* LAN
+* LAN and Ethernet
 * Sleep and WakeUp
 * Microphone
 * Integrated Camera
