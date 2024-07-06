@@ -24,11 +24,9 @@ Here is what i worked with:
 * **Memory:** Micron Technology 8 GB 3200MHz DDR4
 * **Others:** Fujitsu PS/2 Integrated Keyboard, Line-Out, USB-C and HDMI ports...
 
-## Untested
-* HDMI
-
 ## Working
 * iGPU Acceleration
+* HDMI
 * ALC3287 Audio
 * All USB ports
 * LAN and Ethernet
