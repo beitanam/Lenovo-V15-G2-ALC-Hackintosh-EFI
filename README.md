@@ -44,11 +44,6 @@ Here is what i worked with:
 * Bluetooth
 * WiFi
 
-## Issues
-* Line-Out has a few issues you might encounter while using it:
-  * No audio after prolonged usage. (but this is easily fixed by unplugging and plugging in again the device)
-  * Weird audio after waking up the laptop from sleep. (this isn't permanent but requires you to reboot the device to fix it)
-
 ## Bios Configuration:
 Secure Boot is off.
 
