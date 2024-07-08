@@ -54,7 +54,7 @@ For USB, please try mapping them out yourself on Windows (or Linux if you use th
 
 Same goes for ACPI patches, i really recommend you try generating them yourself--because your SSDT might not be the same as the one in here.
 
-This EFI folder was made based on a completely unmodified (minus the NVMe drive) laptop, hence the non-working WiFi & Bluetooth due to this machine not having a compatible WiFi card - you can buy one online on eBay or AliExpress, but at that point you might as well just buy a new computer that's compatible with hackintosh or a affordable macbook (although cheap macbooks just kinda suck) that can run latest OS X.
+This EFI folder was made based on a completely unmodified (minus the NVMe drive) laptop, hence the non-working WiFi due to this machine not having a compatible WiFi card - you can buy one online on eBay or AliExpress, but at that point you might as well just buy a new computer that's compatible with hackintosh or a affordable macbook (although cheap macbooks just kinda suck) that can run latest OS X.
 
 ## I have an issue.
 I HIGHLY recommend you visit the friendly folks of [AMD OS X](https://amd-osx.com/) on their Discord and ask for help there.
