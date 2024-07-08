@@ -70,4 +70,5 @@ to:
 * [chefkiss's guide for amd hackintosh](https://chefkissinc.github.io/guide/)
 * [dortania's opencore guide](https://dortania.github.io/OpenCore-Install-Guide/)
 * [OS X on AMD discord](https://amd-osx.com/)
+* 
 I really really appreciate all these people who made it possible to run OS X on my laptop.
