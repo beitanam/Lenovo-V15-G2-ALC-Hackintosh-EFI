@@ -27,6 +27,7 @@ Here is what i worked with:
 ## Working
 * iGPU Acceleration
 * HDMI
+* Bluetooth
 * ALC3287 Audio
 * All USB ports
 * LAN and Ethernet
@@ -41,7 +42,6 @@ Here is what i worked with:
 * Elan HID Touchpad and the Fujitsu PS/2 Keyboard
 
 ## Not Working
-* Bluetooth
 * WiFi
 
 ## Bios Configuration:
@@ -64,3 +64,10 @@ Don't get me wrong, i don't hate helping people, it's just im not active at all 
 But if i do check GitHub and see your issue, i'll try to fix it as soon as possible!
 
 So really, it's up to you if you want to leave your issue on Issues.
+
+## Thanks
+to:
+[chefkiss's guide for amd hackintosh](https://chefkissinc.github.io/guide/)
+[dortania's opencore guide](https://dortania.github.io/OpenCore-Install-Guide/)
+[OS X on AMD discord](https://amd-osx.com/)
+I really really appreciate all these people who made it possible to run OS X on my laptop.
