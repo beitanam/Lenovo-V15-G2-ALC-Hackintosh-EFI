@@ -37,9 +37,8 @@ Here is what i worked with:
 * USB-C port
 * Battery percentage and charging status (aka Battery Readouts)
 * Display brightness
-* Function Keys
+* Function Keys (Both sound and brightness!)
 * Elan HID Touchpad and the Fujitsu PS/2 Keyboard
-* Brightness Keys (**NOT** working on Sequoia)
 * BlueTooth (**NOT** working on Sequoia)
 
 ## Not Working
