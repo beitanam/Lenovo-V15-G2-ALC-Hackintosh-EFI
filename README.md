@@ -1,7 +1,7 @@
 # Lenovo V15 G2 ALC Hackintosh OpenCore EFI Folder
 Hackintosh **OpenCore** EFI folder for Lenovo's V15 G2 ALC laptop.
 
-Tested on Mac OS X 13.6.7-14.6.1 (Ventura and Sonoma) and OpenCore 1.0.0.
+Tested on Mac OS X 13.6.7-14.6.1-15.1 (Ventura, Sonoma and Sequoia) and OpenCore 1.0.2.
 ## Information
 This is a OpenCore EFI folder for Lenovo's V15 G2 ALC laptop, read what works and what doesn't before using this as well as the hardware specs.
 
@@ -27,7 +27,6 @@ Here is what i worked with:
 ## Working
 * iGPU Acceleration
 * HDMI
-* Bluetooth
 * ALC3287 Audio
 * All USB ports
 * LAN and Ethernet
@@ -38,11 +37,12 @@ Here is what i worked with:
 * USB-C port
 * Battery percentage and charging status (aka Battery Readouts)
 * Display brightness
-* Function Keys!
+* Function Keys! (Minus Brightness)
 * Elan HID Touchpad and the Fujitsu PS/2 Keyboard
 
 ## Not Working
 * WiFi
+* BlueTooth
 
 ## Bios Configuration:
 Secure Boot is off.
