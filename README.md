@@ -37,12 +37,13 @@ Here is what i worked with:
 * USB-C port
 * Battery percentage and charging status (aka Battery Readouts)
 * Display brightness
-* Function Keys! (Minus Brightness)
+* Function Keys
 * Elan HID Touchpad and the Fujitsu PS/2 Keyboard
+* Brightness Keys (**NOT** working on Sequoia)
+* BlueTooth (**NOT** working on Sequoia)
 
 ## Not Working
 * WiFi
-* BlueTooth
 
 ## Bios Configuration:
 Secure Boot is off.
