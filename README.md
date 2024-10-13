@@ -1,16 +1,8 @@
 # V15 G2 ALC's OpenCore EFI Folder
 Hackintosh **OpenCore** EFI folder for Lenovo's V15 G2 ALC laptop.
 
-Tested on Mac OS X 13.6.7-14.6.1-15.1 (Ventura, Sonoma and Sequoia) and OpenCore 1.0.2.
+Tested on Mac OS X 10.15.6-13.6.7-14.6.1-15.1 (Catalina, Ventura, Sonoma and Sequoia) and OpenCore 1.0.2.
 ## Information
-**This is no longer updated.**
-
-I still have such laptop, but have since switched out my WiFi card for one that's actually supported, and as such i can't accurately mantain this anymore.
-
-However, i can guarantee this will 100% work with Sequoia (24B5070a) and presumably past versions.
-
-**The last appropiate update should be from October 9th, 2024 -- unless i updated it for some other reason.**
-
 This is a OpenCore EFI folder for Lenovo's V15 G2 ALC laptop, read what works and what doesn't before using this as well as the hardware specs.
 
 HoRNDIS has also been included due to the lack of compatible WiFi hardware.
